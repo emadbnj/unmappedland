@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x85F674A768c440fc02f1C06d29760b4e8a4c561F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x85f674a768c440fc02f1c06d29760b4e8a4c561f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "unmapped",
+  "SYMBOL": "UNM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 26000000000000000000,
+  "DISPLAY_COST": 26,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/unmapped",
+  "SHOW_BACKGROUND": true
+}
